@@ -8,12 +8,12 @@ li {
   padding: 0;
   margin: 0;
 }
-.main-header {
+.mainHeader {
   background: url("../img/first-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
-.top-menu {
+.topMenu {
   padding: 20px 0;
 }
 .menu__item {
@@ -26,22 +26,22 @@ li {
   font-size: 14px;
 }
 
-.header-middle > div {
+.headerMiddle > div {
   padding: 140px 0;
   text-align: center;
   color: white;
   text-transform: uppercase;
 }
-.heder_midlle__title {
+.headerMiddle__title {
   font-size: 40px;
   margin-top: 245px;
 }
-.heder_midlle__text {
+.headerMiddle__text {
   font-size: 75px;
   margin-bottom: 60px;
   font-weight: bold;
 }
-.heder_midlle__button {
+.headerMiddle__button {
   background: transparent;
   color: #ffffff;
   border-radius: 10px;
@@ -54,7 +54,7 @@ li {
   transition: 0.5s;
   border: 2px solid #fed136;
 }
-.heder_midlle__button:hover {
+.headerMiddle__button:hover {
   background: #fed136;
   color: #494644;
 }
@@ -70,7 +70,7 @@ li {
   font-weight: bold;
   text-transform: uppercase;
 }
-.services__service__title {
+.services_service__title {
   margin-top: 20px;
   font-size: 18px;
   font-weight: bold;
